@@ -8,6 +8,11 @@ export default function Home() {
     <Link to={"/Second"}>
       Second
     </Link>
+<br />
+    
+    <Link to={"/Third"}>
+      Third
+    </Link>
 
    </>
   );
